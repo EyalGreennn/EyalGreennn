@@ -18,3 +18,11 @@
    ![Vite](https://img.shields.io/badge/Vite-%23ffc220.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+- **Database Technologies**:
+
+   ![MONGODB](https://img.shields.io/badge/MongoDB-%2317ad55.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![SQLITE](https://img.shields.io/badge/Sqlite-%2309435b.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![MYSQL](https://img.shields.io/badge/MYSQL-%23e59008.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ---
+  
