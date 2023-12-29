@@ -56,8 +56,5 @@
         <img alt="EyalGreennn's Top Languages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyalGreennn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
         height="192px"/>
-        </a>
-        <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=EyalGreennn&layout=compact&theme=dark&hide_border=true" />
     </div>
   <br/>
