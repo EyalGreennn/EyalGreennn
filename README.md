@@ -38,3 +38,26 @@
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   ---
+
+  - <h1 align="center"><b>Github Stats</h1>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="EyalGreennn Github Stats" 
+    src="https://streak-stats.demolab.com?user=EyalGreennn&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
+    height="192px" width= "3000px"/>
+    </a>
+    <div align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="EyalGreennn Score" 
+        src="https://github-readme-stats.vercel.app/api?username=EyalGreennn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+        height="192px"/>
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="EyalGreennn's Top Languages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyalGreennn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+        height="192px"/>
+        </a>
+        <img
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=EyalGreennn&layout=compact&theme=dark&hide_border=true" />
+    </div>
+  <br/>
