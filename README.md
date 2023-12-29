@@ -6,4 +6,5 @@
 - 16 Years Old
 - Developer since the end of 2020
 - Owner of PetroLoader & CEO and Main Developer of Verona Discord bot.
+
 ---
